@@ -3,7 +3,7 @@ A little C++ tool to replace the playing cards in Scotland Yard
 
 Still a little buggy every now and then
 
-Short besignation for the transport modes:  
+Short designations for the transport modes:  
 t = taxi  
 b = bus  
 u = underground  
