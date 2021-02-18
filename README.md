@@ -1,7 +1,7 @@
-# Scotland_yard
-A little C++ tool to replace the playing cards in Scotland Yard
+# Scotland Yard
+A little C++ tool to replace the playing cards of the board game Scotland Yard
 
-Still a little buggy every now and then
+Still a little buggy every now and then.
 
 Short designations for the transport modes:  
 t = taxi  
