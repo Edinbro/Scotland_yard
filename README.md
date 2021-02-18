@@ -4,11 +4,11 @@ A little C++ tool to replace the playing cards in Scotland Yard
 Still a little buggy every now and then
 
 Short besignation for the transport modes:
-t = taxi
-b = bus
-u = underground
-bt = black ticket
-dr = double ride
+t = taxi \\
+b = bus \\
+u = underground \\
+bt = black ticket \\
+dr = double ride \\
 
 Additional entries:
 caught = if one of the detectives moves on Mister X' field
